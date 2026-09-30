@@ -1,0 +1,10 @@
+{
+  "tickets_analysed": 11641,
+  "misrouted_delivery_tickets": 875,
+  "extra_breach_cost_per_ticket_rs": 92.05,
+  "extra_transfer_cost_per_ticket_rs": 233.94,
+  "estimated_extra_cost_per_misrouted_ticket_rs": 325.98,
+  "annual_estimate_at_650_tickets_per_week_rs": 828194.0,
+  "annual_estimate_at_150_tickets_per_week_rs": 191121.69,
+  "note": "These are estimates based on observed rate differences. Transfer figures use helpdesk-era data. Confirm actual weekly ticket volume before relying on annual estimates."
+}

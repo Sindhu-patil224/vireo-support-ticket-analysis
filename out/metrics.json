@@ -1,0 +1,18 @@
+{
+  "tickets_window": 11641,
+  "billing_share_routed_%": 20.8,
+  "logistics_share_routed_%": 16.4,
+  "billing_true_share_%": 15.3,
+  "logistics_true_share_%": 25.6,
+  "billing_tagged_that_are_delivery": 875,
+  "billing_tagged_delivery_share_%": 36.1,
+  "billing_breach_rate_true_billing_%": 10.2,
+  "billing_breach_rate_misrouted_%": 36.5,
+  "overall_breach_rate_%": 11.1,
+  "breach_credit_rs_18m": 452200,
+  "billing_breach_credit_rs_18m": 166950,
+  "xfer_per_ticket_billing_helpdesk": 0.406,
+  "xfer_per_ticket_other_helpdesk": 0.108,
+  "xfer_per_ticket_billing_misrouted": 0.903,
+  "xfer_per_ticket_billing_true": 0.136
+}
